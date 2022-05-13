@@ -3,7 +3,7 @@
 @section('content')
 
 <h1>Algum Título</h1>
-<img src="/img/banner." alt="" class="src">
+<img src="/img/banner.jpg" alt="" class="src">
 
 {{-- Uso do IF e ELSE --}}
 
