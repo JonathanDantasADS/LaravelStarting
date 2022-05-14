@@ -159,7 +159,6 @@ header {
 
 #image-container img {
   border-radius: 20px;
-  width: 300px;
 }
 
 #info-container h1 {
@@ -189,6 +188,17 @@ header {
 #info-container #event-submit {
   margin: 20px 0;
 }
+
+#items-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+#items-list li {
+  display: flex;
+}
+
+
 
 /* footer */
 footer {
