@@ -197,6 +197,16 @@ header {
   display: flex;
 }
 
+#description-container {
+  margin-top: 30px;
+}
+
+/* Dashboard */
+
+.dashboard-events-container th {
+  width: 25%;
+}
+
 /* footer */
 footer {
   text-align: center;
